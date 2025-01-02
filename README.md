@@ -9,7 +9,7 @@ I'm a dedicated web developer specializing in **JavaScript**, **Frontend Animati
 ---
 
 Connect with me on Instagram [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) for collaborations or inquiries! <br>
-Drop me an Emial [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com)
+Drop me an Email [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com)
 
 ### Must Check Out:
 [Featured Work](https://oliverfelixdev.github.io/Rayban-Reimagine/) Rayban Re-Imagine
