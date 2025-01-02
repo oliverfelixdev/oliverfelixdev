@@ -8,7 +8,7 @@ I'm a dedicated web developer specializing in **JavaScript**, **Frontend Animati
 
 ---
 
-Connect with me on Instagram [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) for collaborations or inquiries!
+Connect with me on Instagram [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) for collaborations or inquiries! <br>
 Drop Me an Email [oliverfelix.dev@gmail.com](oliverfelix.dev@gmail.com)
 
 ### Must Check Out:
