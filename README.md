@@ -12,7 +12,7 @@ Connect with me on Instagram [@oliverfelix.dev](https://www.instagram.com/oliver
 Drop me an Email [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com)
 
 ### Must Check Out:
-[Featured Work](https://oliverfelixdev.github.io/Rayban-Reimagine/) Rayban Re-Imagine
+[Featured Work](https://cylindershowcase.vercel.app/) Project Showcase
 
 
 ---
