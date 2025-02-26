@@ -1,20 +1,20 @@
-# Hello, I'm Oliver 👋
+# Hey, I'm Oliver 👋  
 
-I'm a dedicated web developer specializing in **JavaScript**, **Frontend Animation Libraries**, **HTML**, and **CSS**. Passionate about building seamless and interactive user experiences.
+I'm a passionate **Web Developer** focused on **JavaScript** and **UI Animations**. I love crafting seamless, interactive user experiences that bring ideas to life.  
 
-### 🔧 Technologies & Tools I use:
-- **JavaScript & Frontend Libraries:** React.js, GSAP, and more
-- **Styling:** CSS, StyleX and more
+## 🔧 Technologies & Tools  
+- **JavaScript & Frontend Libraries:** React.js, GSAP, and more  
+- **Styling:** CSS, StyleX, and other modern styling solutions  
 
----
+---  
 
-Connect with me on Instagram [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) for collaborations or inquiries! <br>
-Drop me an Email [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com)
+📩 **Let's Connect!**  
+- **Instagram:** [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) – Let's collaborate!  
+- **Email:** [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com) – Drop me a message!  
 
-### Must Check Out:
-[Featured Work](https://cylindershowcase.vercel.app/) Project Showcase
+## 🚀 Featured Work  
+Check out my latest project: [Reimagine Nike](https://reimaginenike.vercel.app/)  
 
+---  
 
----
-
-Let’s build something great together. 💻✨
+Let’s build something amazing together! 💻✨  
