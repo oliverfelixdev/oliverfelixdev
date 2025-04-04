@@ -9,7 +9,7 @@ I'm a passionate **Web Developer** focused on **JavaScript** and **UI Animations
 ---  
 
 📩 **Let's Connect!**  
-- **Instagram:** [@oliverfelix.dev](https://www.instagram.com/oliverfelix.dev/) – Let's collaborate!  
+- **LinkedIn:** [@oliverfelix.dev](https://www.linkedin.com/in/oliverfelixdev) – Let's collaborate!  
 - **Email:** [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com) – Drop me a message!  
 
 ## 🚀 Featured Work  
