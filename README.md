@@ -8,13 +8,14 @@ I'm a passionate **Web Developer** focused on **JavaScript** and **UI Animations
 
 ---  
 
-📩 **Let's Connect!**  
-- **Instagram:** [Oliver Felix](https://www.instagram.com/oliverfelixdev/) – Let's collaborate!  
-- **Email:** [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com) – Drop me a message!  
+📬 Get in Touch
+Whether you have a project in mind, a collaboration idea, or just want to say hi — I'm always open to connecting!
 
-## 🚀 Featured Work  
-Check out my latest project: [Reimagine Nike](https://reimaginenike.vercel.app/)  
+📸 Instagram: @oliverfelixdev
 
----  
+📧 Email: oliverfelix.dev@gmail.com
 
-Let’s build something amazing together! 💻✨  
+🚀 Featured Work
+Explore my latest project: Reimagine Nike
+
+<div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Crafting seamless experiences, one line of code at a time.</em> 💻✨ </div>
