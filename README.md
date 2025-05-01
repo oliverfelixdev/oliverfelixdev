@@ -16,6 +16,6 @@ Whether you have a project in mind, a collaboration idea, or just want to say hi
 📧 Email: oliverfelix.dev@gmail.com
 
 🚀 Featured Work
-Explore my latest project: Reimagine Nike
+Explore my latest project: [Reimagine Nike](https://github.com/oliverfelixdev/Nike)
 
 <div align="center"> <strong>Let’s build something amazing together.</strong><br> <em>Crafting seamless experiences for brands</em> 💻✨ </div>
