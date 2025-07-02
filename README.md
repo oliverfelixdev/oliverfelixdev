@@ -9,18 +9,17 @@ I’m a passionate **Web Developer** specializing in **JavaScript** and **UI ani
 ---
 
 ## 📬 Let’s Connect  
-Got a project in mind, a collaboration idea, or just want to chat? I’m always open to meaningful conversations.
+Got a project in mind, a collaboration idea, always open to meaningful conversations.
 
 - 📧 **Email:** [oliverfelix.dev@gmail.com](mailto:oliverfelix.dev@gmail.com)
 
 ---
 
-## 🚀 Featured Project  
-Take a look at my latest work: [Reimagine Nike](https://github.com/oliverfelixdev/Nike)
-
+## 🚀 Featured Work  
+- [Reimagine Nike](https://reimaginenike.vercel.app/)
 ---
 
 <div align="center">
   <strong>Let’s build something remarkable.</strong><br>
-  <em>Designing seamless digital experiences for bold brands</em> 💻✨
+  <em>Less decoration. More direction.</em> 💻 ![](https://github.com/user-attachments/assets/e2ee4806-cda8-44c3-a47d-8161278ccf1c)
 </div>
